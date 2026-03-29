@@ -5,7 +5,7 @@ class BitShift {
 
         int num = 11;
 
-        System.out.println("Original number: " + num);
+        System.out.println("number: " + num);
 
         int leftShift = num << 2;
         System.out.println("After left shift (num << 2): " + leftShift);
